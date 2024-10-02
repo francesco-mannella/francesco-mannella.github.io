@@ -1,4 +1,16 @@
 /* Project Page */
+
+
+.image {
+    border-style: none;
+    border-color: $light-gray;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    border-radius: 4%;
+}
+
 .ProjectContainer {
   max-width: 800px;
   margin: 0 auto;

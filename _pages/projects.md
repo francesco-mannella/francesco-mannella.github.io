@@ -29,7 +29,11 @@ published: true
   <div class="projectTile">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2> 
+                    {{ project.title }}
+                    <br/>
+                    <img class="projects image" src="{{ project.image | prepend: '/assets/images/' | relative_url }}">
+              </h2>
               <br/>
               <p>{{ project.description }}</p>
           </span>
