@@ -1,12 +1,12 @@
 /* Profile */
 .profile {
-    border-style: solid;
+    border-style: none;
     border-color: $light-gray;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 1rem;
     border-radius: 6px;
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
 .left {
@@ -22,7 +22,7 @@
   @media screen and (max-width: $on-phone){
 
     .profile {
-      width: 40%;
+      width: 30%;
     }
 
   }
