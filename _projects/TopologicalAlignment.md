@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Topological alignement
 image: topological_align.gif
 description: How neural spaces constraint multimodal representations
