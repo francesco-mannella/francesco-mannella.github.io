@@ -28,7 +28,7 @@ published: true
   <div class="projectTile">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
           <br/>
-          <img class="projects image" width="50%" src="{{ project.image | prepend: '/assets/images/' | relative_url }}">
+          <img class="projects image" width="90%" src="{{ project.image | prepend: '/assets/images/' | relative_url }}">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
