@@ -2,7 +2,7 @@
 layout: project
 title: Selection of cortical dynamics by the basal ganglia
 image: cortical_dynamics.png 
-description: basal ganglia disinhibition, influenced by top-down inputs, can vary cortical dynamics to produce different motor paths using the same inputs.
+description: Basal ganglia disinhibition, influenced by top-down inputs, can vary cortical dynamics to produce different motor paths using the same inputs.
 ---
 
 

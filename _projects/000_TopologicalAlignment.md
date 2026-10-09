@@ -1,14 +1,14 @@
 ---
 layout: project
-title: Topological alignement
+title: Topological alignment
 image: topological_align.gif
-description: How neural spaces constraint multimodal representations
+description: How neural spaces constrain multimodal representations
 ---
 
-How do our minds ground cognition in the diverse and complex stimuli we encounter in our environment? This question lies at the heart of understanding cognitive processes?
+How do our minds ground cognition in the diverse and complex stimuli we encounter in our environment? This question lies at the heart of understanding cognitive processes.
 
 
- The **Topological Alignment Hypothesis** explains  how action and perceptual representational spaces interact and integrate, allowing us to make sense of our experiences.   
+The **Topological Alignment Hypothesis** explains how action and perceptual representational spaces interact and integrate, allowing us to make sense of our experiences.
 
 * The cortex contains **topological maps** of perceptual states and motor plans.
 * Action maps are **already aligned** with perceptual maps, meaning that a location in one map corresponds to a location in the other map.
