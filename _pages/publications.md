@@ -35,6 +35,30 @@ width:200em;
 </thead>
 <tbody>
 <tr class="odd">
+<td>2025</td><td>Brucklacher M., Pezzulo G., Mannella F., Galati G. and Pennartz C.M.A. (2025), <strong>"Learning to segment self-generated from externally caused optic flow through sensorimotor mismatch circuits"</strong>, Neural Networks. Vol. 181, 106716. Elsevier Ltd.
+  [<a href="https://doi.org/10.1016/j.neunet.2024.106716">DOI</a>]</td>
+</tr>
+<tr class="even">
+<td>2024</td><td>Borghi A.M., De Livio C., Gervasi A.M., Mannella F., Nolfi S. and Tummolini L. (2024), <strong>"Language as a cognitive and social tool at the time of large language models"</strong>, Journal of Cultural Cognitive Science. Vol. 8(3), pp. 179 – 198. Springer.
+  [<a href="https://doi.org/10.1007/s41809-024-00152-8">DOI</a>]</td>
+</tr>
+<tr class="odd">
+<td></td><td>Borghi A.M., Mazzuca C., Gervasi A.M., Mannella F. and Tummolini L. (2024), <strong>"Grounded cognition can be multimodal all the way down"</strong>, Language, Cognition and Neuroscience. Vol. 39(7), pp. 838 – 842. Taylor &amp; Francis.
+  [<a href="https://doi.org/10.1080/23273798.2023.2210238">DOI</a>]</td>
+</tr>
+<tr class="even">
+<td></td><td>Mannella F. and Pezzulo G. (2024), <strong>"Transitive inference as probabilistic preference learning"</strong>, Psychonomic Bulletin &amp; Review. Springer.
+  [<a href="https://doi.org/10.3758/s13423-024-02600-6">DOI</a>]</td>
+</tr>
+<tr class="odd">
+<td></td><td>Pezzulo G., D'Amato L., Mannella F., Priorelli M., Van de Maele T., Stoianov I.P. and Friston K. (2024), <strong>"Neural representation in active inference: Using generative models to interact with—and understand—the lived world"</strong>, Annals of the New York Academy of Sciences. Vol. 1534(1), pp. 45 – 68. Wiley.
+  [<a href="https://doi.org/10.1111/nyas.15118">DOI</a>]</td>
+</tr>
+<tr class="even">
+<td></td><td>Priorelli M., Maggiore F., Maselli A., Donnarumma F., Maisto D., Mannella F., Stoianov I.P. and Pezzulo G. (2024), <strong>"Modeling motor control in continuous-time active inference: A survey"</strong>, IEEE Transactions on Cognitive and Developmental Systems. Vol. 16(2), pp. 485 – 500. IEEE.
+  [<a href="https://doi.org/10.1109/TCDS.2023.3338491">DOI</a>]</td>
+</tr>
+<tr class="odd">
 <td>2023</td><td>Mannella F. and Tummolini L. (2023), <strong>"Kick-starting concept formation with intrinsically motivated learning: The grounding by competence acquisition hypothesis"</strong>, Philosophical Transactions of the Royal Society B: Biological Sciences. Vol. 378(1870) Royal Society Publishing.
   [<a href="https://doi.org/10.1098/rstb.2021.0370">DOI</a>] [<a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144637053&amp;doi=10.1098%2frstb.2021.0370&amp;partnerID=40&amp;md5=d85998c4168fec408209c863dc8123f3">URL</a>]</td>
 </tr>
